@@ -1,0 +1,7 @@
+langchain
+langchain-community
+chromadb
+fastembed
+streamlit
+streamlit_chat
+
